@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.header {
+    width: 1000px;
+    height: 450px;
+    background: url(/imag/Oracle-ONE.jpg);
+}
+.input-box {
+    width: 450px;
+    height: 150px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+.botonsfunctions{
+    margin: 10px;
+}
+.result-box {
+    width: 390px;
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+}
+.button {
+    display: inline-block;
+    margin: 5px;
+}
+
+.footer{  
+    width:100%; 
+    height:100px; 
+}
+
